@@ -64,6 +64,10 @@ FileImgSwap video.mp4 -append archive.zip
 
 生成的文件会以 `.tz.png` 为后缀，既可以作为普通图像查看，也可作为压缩包解压（建议使用zip/rar格式，解压时改后缀用WinRAR解压）
 
+## 更新日志
+
+[更新日志](CHANGELOG.md)
+
 ## 注意事项
 
 - 加密的文件必须使用**相同的密码/密钥文件**才能还原
