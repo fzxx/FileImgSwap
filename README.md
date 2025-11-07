@@ -49,11 +49,11 @@ FileImgSwap file1.fis.png file2.tz.png
 
 #### 加密功能
 
-如需加密转换，在程序同目录下创建以下文件之一（也可以两个都存在）
+如需加密转换，**在程序同目录下创建**以下文件之一（也可以两个都存在）
 - 密码文件：与程序同名的 `.fisp.txt`（如 `FileImgSwap.fisp.txt`），第一行为密码
 - 密钥文件：与程序同名的 `.fisp.key`（如 `FileImgSwap.fisp.key`），存放二进制密钥
 
-程序会自动检测并使用这些文件进行加密/解密，未检测到则不加密。
+程序会自动检测并使用这些文件进行加密/解密，**未检测到则不加密**。
 
 #### 图种功能
 
@@ -77,3 +77,9 @@ FileImgSwap video.mp4 -append archive.zip
 ## 相关项目
 
 [想曰 - 文本加密让你想曰就曰](https://github.com/fzxx/XiangYue)
+
+[坏坏包 - 让压缩包像坏了](https://github.com/fzxx/NaughtyDamagePack)
+
+## 下载地址
+
+https://github.com/fzxx/FileImgSwap/releases
