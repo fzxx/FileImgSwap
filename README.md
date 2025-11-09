@@ -1,5 +1,8 @@
 # FileImgSwap
 
+<p align='center'>
+<a href=README.md>中文</a> | <a href=README_EN.md>EN</a>
+</p>
 **[FileImgSwap](https://github.com/fzxx/FileImgSwap) 文图变**是一款可以把文件与 PNG 图像进行互转的工具，支持加密、图种（附加压缩包）功能，可将任意文件隐藏在 PNG 图像中，也能从生成的 PNG 图像中还原出原始文件。
 
 ![](FileImgSwap.gif)
