@@ -3,7 +3,7 @@
 <p align='center'>
 <a href=README.md>Chinese</a> | <a href=README_EN.md>EN</a>
 </p>
-**[FileImgSwap](https://github.com/fzxx/FileImgSwap)** is a tool that enables mutual conversion between files and PNG images. It supports encryption and image-seed (appending compressed packages) functions, allowing you to hide any file in a PNG image and restore the original file from the generated PNG image.
+[**FileImgSwap**](https://github.com/fzxx/FileImgSwap) is a tool that enables mutual conversion between files and PNG images. It supports encryption and image-seed (appending compressed packages) functions, allowing you to hide any file in a PNG image and restore the original file from the generated PNG image.
 
 ![](FileImgSwap.gif)
 
