@@ -84,6 +84,8 @@ The generated file will have the `.tz.png` extension. It can be viewed as a norm
 
 [NaughtyDamagePack - Make compressed packages look corrupted](https://github.com/fzxx/NaughtyDamagePack)
 
+[FlashErase - Make Files Unrecoverable](https://github.com/fzxx/FlashErase)
+
 ## Download Link
 
-https://github.com/fzxx/FileImgSwap/releases
+[https://github.com/fzxx/FileImgSwap/releases](https://github.com/fzxx/FileImgSwap/releases)

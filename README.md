@@ -83,6 +83,8 @@ FileImgSwap video.mp4 -append archive.zip
 
 [坏坏包 - 让压缩包像坏了](https://github.com/fzxx/NaughtyDamagePack)
 
+[闪电擦除 - 让文件无法恢复](https://github.com/fzxx/FlashErase)
+
 ## 下载地址
 
-https://github.com/fzxx/FileImgSwap/releases
+[https://github.com/fzxx/FileImgSwap/releases](https://github.com/fzxx/FileImgSwap/releases)
